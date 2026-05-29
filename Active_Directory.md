@@ -20,6 +20,10 @@ Server AD2:
 >Profitez du panneau de configuration pour le renommer de manière propre
 > Ex: DC1
 
+>[!warning]
+>Mettez à jour vos serveurs! 
+>Avec les temps qui courrent il faut sécuriser nos infrastructures même privées.
+
 ### Network:
 
     > IP: 192.168.10.248
@@ -27,6 +31,18 @@ Server AD2:
     > Passerelle: 192.168.10.1
     > DNS préféré: 127.0.0.1 (AD1 sera le serveur DNS de la fôret en tant que DC)
     > DNS Alternatif: 192.168.10.1 (accès à internet)
+
+### Logiciels
+
+Dans le paneau de gestion du serveur:
+
+Ajout de rôle et de fonctions
+Suivez l'installeur
+Sélectionnez votre serveur
+Cochez "Services de domaine Active Directory"
+Acceptez, Suivant et installer 
+Redemarrez si besoin
+
 
 ## Configuration de AD2
 
