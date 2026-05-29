@@ -36,12 +36,12 @@ Server AD2:
 
 Dans le paneau de gestion du serveur:
 
-> Ajout de rôle et de fonctions,
-> Suivez l'installeur,
-> Sélectionnez votre serveur,
-> Cochez "Services de domaine Active Directory",
-> Acceptez, Suivant et installer,
-> Redemarrez si besoin
+    * Ajout de rôle et de fonctions,
+    * Suivez l'installeur,
+    * Sélectionnez votre serveur,
+    * Cochez "Services de domaine Active Directory",
+    * Acceptez, Suivant et installer,
+    * Redemarrez si besoin
 
 
 ## Configuration de AD2
