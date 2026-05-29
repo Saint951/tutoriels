@@ -16,7 +16,7 @@ Server AD2:
 
 ## Configuration de AD1
 
->[!tips]
+>[!TIP]
 >Profitez du panneau de configuration pour le renommer de manière propre
 > Ex: DC1
 
